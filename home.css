@@ -1,5 +1,13 @@
 #menu {
   display: none;
+  background: #333;
+  color: white;
+  padding: 10px;
+}
+
+.humburger{
+  font-size: 30px;
+  cursor: pointer;
 }
 
 #menu.active {
